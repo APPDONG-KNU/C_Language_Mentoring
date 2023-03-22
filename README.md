@@ -1,4 +1,4 @@
-# 앱동 C언어 멘토링
+# ⭐앱동 C언어 멘토링
 
 <img width="100%" src="https://user-images.githubusercontent.com/88179771/193101882-1b3083fa-88ff-4688-bd0d-51eaeb1d51db.gif"/>
 
