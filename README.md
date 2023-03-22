@@ -24,7 +24,7 @@
 
 ## 📅 스케줄
 
-1주차 (03.20) 
+[1주차 (03.20)](https://github.com/APPDONG-KNU/C_Language_Mentoring/blob/main/1%EC%A3%BC%EC%B0%A8/README.md) 
 
 2주차 (03.27) 
 
