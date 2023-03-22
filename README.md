@@ -1,1 +1,1 @@
-# C Language Mentoring
+# 앱동 C언어 멘토링
