@@ -28,8 +28,10 @@
 
 [2주차 (03.27)](https://github.com/APPDONG-KNU/C_Language_Mentoring/blob/main/2%EC%A3%BC%EC%B0%A8/README.md)
 
-3주차 (05.01) 
+[3주차 (05.01)](https://github.com/APPDONG-KNU/C_Language_Mentoring/blob/main/3%EC%A3%BC%EC%B0%A8/README.md)
 
-4주차 (05.08) 
+[4주차 (05.08)](https://github.com/APPDONG-KNU/C_Language_Mentoring/blob/main/4%EC%A3%BC%EC%B0%A8/README.md)
 
-5주차 (05.15)
+[5주차 (05.15)](https://github.com/APPDONG-KNU/C_Language_Mentoring/blob/main/5%EC%A3%BC%EC%B0%A8/README.md)
+
+[보강주차 (06.17)](https://github.com/APPDONG-KNU/C_Language_Mentoring/blob/main/%EB%B3%B4%EA%B0%95%EC%A3%BC%EC%B0%A8/README.md)
